@@ -8,7 +8,7 @@ This is a fully responsive **Amazon India Clone** made using HTML, CSS, and Font
 
 ## 📸 Preview
 
-![Amazon Clone Screenshot](assets/preview.jpg)
+![Amazon Clone Screenshot](assets/preview.png)
 
 ## ✨ Features
 
