@@ -4,9 +4,9 @@ This is a fully responsive **Amazon India Clone** made using HTML, CSS, and Font
 
 ## 🌐 Live Demo
 
-[Click here to view the live project](https://jayesh-amazon-clone.netlify.app/)
+🔗[Click here to view the live project](https://jayesh-amazon-clone.netlify.app/)
 
-[Netlify](https://jayesh-amazon-clone.netlify.app/)
+🔗[Netlify Link](https://jayesh-amazon-clone.netlify.app/)
 
 ## 📸 Preview
 
